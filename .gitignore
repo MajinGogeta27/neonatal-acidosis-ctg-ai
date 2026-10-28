@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary test scripts
+test_selector.py
+recordings/frames/
+
+# OS generated
+.DS_Store
+Thumbs.db
